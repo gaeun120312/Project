@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba406877-c780-4b5c-96f4-d1cc93a6c245" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/templates/registration/logout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/templates/registration/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/templates/registration/register_done.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/answer_images/그림1-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/answer_images/그림1-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/answer_images/그림1-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/answer_images/그림1-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/answer_images/그림2-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/answer_images/그림2-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/answer_images/그림2-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/2023/10/14/2023-09-18_11_32_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/2023/10/14/django_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/2023/10/14/django_logo_rPTioVD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/2023/10/14/python_logo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/2023/10/14/python_logo_PVBA9vD.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/2023/11/18/그림2-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/2023/11/19/2023-11-12_15_24_41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/2023/11/19/KakaoTalk_20231118_175349261_04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/2023/11/19/KakaoTalk_20231118_175349261_04_0uv1w3C.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/2023/11/19/KakaoTalk_20231118_175349261_04_6Cl99lD.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/2023/11/19/KakaoTalk_20231118_175349261_04_HM6Ly7v.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/2023/11/19/KakaoTalk_20231118_175349261_04_JHbcq0n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/2023/11/19/KakaoTalk_20231118_175349261_04_Pma6nbP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/2023/11/19/KakaoTalk_20231118_175349261_04_UgFcIiT.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/2023/11/19/KakaoTalk_20231118_175349261_04_qDLL64g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/2023/11/19/KakaoTalk_20231118_175349261_04_t0DWYmK.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/2023/11/19/그림1-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/2023/11/19/그림2-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/2023/11/19/그림2-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/2023/11/21/KakaoTalk_20231118_175349261_04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/2023/11/21/KakaoTalk_20231118_175349261_04_NB4bL4j.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/2023/11/21/KakaoTalk_20231118_175349261_04_gBnaDe5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/2023/11/21/제목_없음.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/quiz_images/그림1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/quiz_images/그림2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo/templates/photo/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo/templates/photo/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo/templates/photo/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo/templates/photo/update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo/templates/photo/upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/2023/10/14/python_logo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/migrations/0002_alter_useranswer_unique_together_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/migrations/0003_alter_useranswer_unique_together.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/migrations/0004_alter_useranswer_unique_together.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/migrations/0005_answer_image_quiz_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/migrations/0006_alter_answer_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/migrations/0007_useranswer_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/migrations/0008_quiz_date_asked.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/migrations/0009_quiz_is_text_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/migrations/0010_answer_is_text_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/migrations/0011_alter_answer_quiz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/migrations/0012_useranswer_date_answered_useranswer_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/migrations/0013_quiz_points.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/migrations/0014_alter_useranswer_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/migrations/0015_alter_useranswer_quiz_alter_useranswer_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/migrations/0016_alter_useranswer_quiz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/migrations/0017_quiz_is_date_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/completed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/incorrect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/quiz.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <branch-grouping />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2WkGWOpRrxOWFARGQ60bG4I4IlB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/이가은/PycharmProjects/19일4시45/gg",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shin il woo\PycharmProjects\gg" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba406877-c780-4b5c-96f4-d1cc93a6c245" name="Changes" comment="" />
+      <created>1697269194588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697269194588</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
